@@ -1,0 +1,9 @@
+Resurse:
+  - CPU:
+  - RAM:
+  - ROM:
+  - Interfete retea:
+     >
+     >
+  - Aplicatii de instalat:
+     > nano, vim, git, ...
