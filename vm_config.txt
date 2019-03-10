@@ -1,9 +1,9 @@
 Resurse:
-  - CPU:
-  - RAM:
-  - ROM:
+  - CPU: 1 CPU
+  - RAM: 1 GB
+  - ROM: 15 - 20 GB
   - Interfete retea:
-     >
-     >
+     > NAT
+     > Host-Only Adapter
   - Aplicatii de instalat:
      > nano, vim, git, ...
