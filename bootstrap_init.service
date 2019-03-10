@@ -1,0 +1,11 @@
+[Unit]
+Description=bootstrap init
+Wants=network.target
+After=syslog.target network-online.target
+
+[Service]
+Type=simple
+ExecStart=~/mlmos/bootstrap.sh
+
+[Install]
+WantedBy=multi-user.target
